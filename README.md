@@ -86,9 +86,4 @@ This analysis provides key insights into traffic accidents in Montgomery County,
 
 📄 report.pdf # Final project report
 
-## 📜 License  
-This project is licensed under the **MIT License**.  
 
-**MIT License**  
-
-This project is licensed under the **MIT License** – you are free to use, modify, and distribute it under the terms of the license.  
