@@ -76,7 +76,7 @@ The data was collected from the Crash Reporting - Drivers Data dataset on Data.g
 This analysis provides key insights into traffic accidents in Montgomery County, with particular focus on pedestrian involvement, road conditions, and speed limits. Targeted interventions, such as improved pedestrian safety measures and enforcing speed limits, can help reduce the occurrence and severity of traffic collisions.
 
 ## Repository Structure
-📂 Data/ # Raw and processed dataset files
+📂 Data/ # Processed dataset files
 
 📂 Notebooks/ # Jupyter notebooks for preprocessing and analysis
 
