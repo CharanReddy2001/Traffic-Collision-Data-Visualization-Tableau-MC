@@ -77,9 +77,13 @@ This analysis provides key insights into traffic accidents in Montgomery County,
 
 ## Repository Structure
 📂 Data/ # Raw and processed dataset files
+
 📂 Notebooks/ # Jupyter notebooks for preprocessing and analysis
+
 📂 Visualizations/ # Tableau visualizations and plots
+
 📄 README.md # Project documentation (this file)
+
 📄 report.pdf # Final project report
 
 ## 📜 License  
